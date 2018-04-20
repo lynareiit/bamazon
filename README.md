@@ -13,3 +13,5 @@ Bamazon is my Week 13 homework assignment for the UC Berekely Coding Boot Camp. 
 <p>3. Run 'node bamazonCustomer.js' to launch the application or node bamazonManager.js for the manager application.</p>
 <h3>Utilizing the Application</p>
 <h4>Customer Application:</h4>
+<img src="./images/databaseCreate" alt="Customer database created" width="400px" height="600px">
+<img src="./images/databaseStructure" alt="Customer database structure" width="400px" height="600px">
